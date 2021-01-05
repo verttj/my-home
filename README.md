@@ -10,9 +10,7 @@
 - **Compositor**                   : Picom by ibhagwan
 - **Bar**                          : Polybar
 
-### SERENITY :heart_eyes_cat:
-
-:heart_eyes_cat: screenshot: 
+### SERENITY :heart_eyes_cat: screenshot: 
 
 <img src="https://raw.githubusercontent.com/r3wind29/my-home/main/Serenity/Screenshot%20/serenity-01.png">
 
@@ -20,9 +18,11 @@
 
 
 <h1>:hugs: Credits and Thanks to</h1>
+- <a href="https://wallhaven.cc/w/g818jd"> target"_blank">Serenity | WP</a><br />
+- <a href="https://www.reddit.com/r/Moescape/" target="_blank">Ltint | WP</a><br />
 - <a href="https://github.com/jbirnick/polybar-timer" target="_blank">Polybar timer</a><br />
 - <a href="https://github.com/ecceman/bt-stat" target="_blank">Polybar bluetooth</a><br />
 - <a href="https://github.com/PrayagS/polybar-spotify" target="_blank">Polybar player</a><br />
-- <a href="https://www.reddit.com/r/Moescape/" target="_blank">Wallpaper</a><br />
 - <a href="https://github.com/MiguelRAvila/SimplerentFox" target="_blank">Firefox Theme</a><br />
+- <a href="https://github.com/manilarome/blurredfox" target="_blank">Firefox blurred Theme</a><br />
 - <a href="https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo target="_blank">VscodeTheme</a>
