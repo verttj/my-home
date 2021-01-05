@@ -16,9 +16,14 @@
 
 <img src="https://raw.githubusercontent.com/r3wind29/my-home/main/Serenity/Screenshot%20/serenity-03.png">
 
+### LTINT :heart_eyes_cat: screenshot: 
+
+<img src="https://raw.githubusercontent.com/r3wind29/dotfiles-ltint/main/screenshot/2020-12-14_23-33-10_1920x1080.png">
+
+<img src="https://raw.githubusercontent.com/r3wind29/dotfiles-ltint/main/screenshot/2020-12-15_00-00-19_1920x1080.png">
 
 <h1>:hugs: Credits and Thanks to</h1>
-- <a href="https://wallhaven.cc/w/g818jd"> target"_blank">Serenity | WP</a><br />
+- <a href="https://wallhaven.cc/w/g818jd" target"_blank">Serenity | WP</a><br />
 - <a href="https://www.reddit.com/r/Moescape/" target="_blank">Ltint | WP</a><br />
 - <a href="https://github.com/jbirnick/polybar-timer" target="_blank">Polybar timer</a><br />
 - <a href="https://github.com/ecceman/bt-stat" target="_blank">Polybar bluetooth</a><br />
