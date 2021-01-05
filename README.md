@@ -16,6 +16,8 @@
 
 <img src="https://raw.githubusercontent.com/r3wind29/my-home/main/Serenity/Screenshot%20/serenity-03.png">
 
+<hr>
+
 ### LTINT :heart_eyes_cat: screenshot: 
 
 <img src="https://raw.githubusercontent.com/r3wind29/dotfiles-ltint/main/screenshot/2020-12-14_23-33-10_1920x1080.png">
