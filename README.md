@@ -16,9 +16,11 @@ NOTE: SERENITY AND LTINT I'M STILL WORKING AND CLEANING UP SOME THINGS.
 - **WM**                           : bspwm
 - **Shell**                        : Zsh
 - **Terminal**                     : Kitty
+- **Editor**                       : nvim
 - **Notify Daemon**                : Dunst
 - **Compositor**                   : Picom by ibhagwan
 - **Bar**                          : Polybar
+- **File Manager**                 : lf
 - **Fonts**                        : Terminus, JetBrains Mono, Fira Code, Nerd Fonts, Font Awesome, Roboto Mono
 ```
 ####
