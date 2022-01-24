@@ -19,6 +19,7 @@ NOTE: SERENITY AND LTINT I'M STILL WORKING AND CLEANING UP SOME THINGS.
 - **Notify Daemon**                : Dunst
 - **Compositor**                   : Picom by ibhagwan
 - **Bar**                          : Polybar
+- **Fonts**                        : Terminus, JetBrains Mono, Fira Code, Nerd Fonts, Font Awesome, Roboto Mono
 ```
 ####
 ```
