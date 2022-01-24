@@ -1,14 +1,33 @@
-### WELCOME TO MY HOME :smiley_cat:
+```
+░ ░░ ▒█▀▄▀█ ▒█░░▒█ ░░ ▒█░▒█ ▒█▀▀▀█ ▒█▀▄▀█ ▒█▀▀▀ 
+▄ ▀▀ ▒█▒█▒█ ▒█▄▄▄█ ▀▀ ▒█▀▀█ ▒█░░▒█ ▒█▒█▒█ ▒█▀▀▀ 
+█ ░░ ▒█░░▒█ ░░▒█░░ ░░ ▒█░▒█ ▒█▄▄▄█ ▒█░░▒█ ▒█▄▄▄
+```
 
-:see_no_evil: details about my setup:
+```
+░ ▄▄ █▀▄ █▀▀ ▀█▀ ▄▀█ █ █░░ █▀
+▄ ░░ █▄▀ ██▄ ░█░ █▀█ █ █▄▄ ▄█
 
-- **OS**                           : Artix Linux
+- **OS**                           : Arch
 - **WM**                           : bspwm
 - **Shell**                        : Zsh
 - **Terminal**                     : Kitty
 - **Notify Daemon**                : Dunst
 - **Compositor**                   : Picom by ibhagwan
 - **Bar**                          : Polybar
+```
+
+```
+░█▀▀█ ░█▀▀▀ ░█▀▀▀ ░█─── ░█▀▀▀ ░█▀▀█ ▀▀█▀▀ ▀█▀ ░█▀▀▀█ ░█▄─░█ 
+░█▄▄▀ ░█▀▀▀ ░█▀▀▀ ░█─── ░█▀▀▀ ░█─── ─░█── ░█─ ░█──░█ ░█░█░█ 
+░█─░█ ░█▄▄▄ ░█─── ░█▄▄█ ░█▄▄▄ ░█▄▄█ ─░█── ▄█▄ ░█▄▄▄█ ░█──▀█
+
+<img src="https://raw.githubusercontent.com/verttj/my-home/main/Reflection/Images/screen-1.png">
+
+<img src="https://github.com/verttj/my-home/blob/main/Reflection/Images/screen-2.png?raw=true">
+
+
+```
 
 ### SERENITY :heart_eyes_cat: screenshot: 
 
