@@ -22,17 +22,17 @@ NOTE: SERENITY AND LTINT I'M STILL WORKING AND CLEANING UP SOME THINGS.
 ```
 ####
 ```
-                         ░█▀▀█ ░█▀▀▀ ░█▀▀▀ ░█─── ░█▀▀▀ ░█▀▀█ ▀▀█▀▀ ▀█▀ ░█▀▀▀█ ░█▄─░█ 
-                         ░█▄▄▀ ░█▀▀▀ ░█▀▀▀ ░█─── ░█▀▀▀ ░█─── ─░█── ░█─ ░█──░█ ░█░█░█ 
-                         ░█─░█ ░█▄▄▄ ░█─── ░█▄▄█ ░█▄▄▄ ░█▄▄█ ─░█── ▄█▄ ░█▄▄▄█ ░█──▀█
+                       ░█▀▀█ ░█▀▀▀ ░█▀▀▀ ░█─── ░█▀▀▀ ░█▀▀█ ▀▀█▀▀ ▀█▀ ░█▀▀▀█ ░█▄─░█ 
+                       ░█▄▄▀ ░█▀▀▀ ░█▀▀▀ ░█─── ░█▀▀▀ ░█─── ─░█── ░█─ ░█──░█ ░█░█░█ 
+                       ░█─░█ ░█▄▄▄ ░█─── ░█▄▄█ ░█▄▄▄ ░█▄▄█ ─░█── ▄█▄ ░█▄▄▄█ ░█──▀█
 ```
 <img src="https://raw.githubusercontent.com/verttj/my-home/main/Reflection/Images/screen-1.png">
 <img src="https://raw.githubusercontent.com/verttj/my-home/main/Reflection/Images/screen-2.png">
 
 ```
-                             ░█▀▀▀█ ░█▀▀▀ ░█▀▀█ ░█▀▀▀ ░█▄─░█ ▀█▀ ▀▀█▀▀ ░█──░█ 
-                             ─▀▀▀▄▄ ░█▀▀▀ ░█▄▄▀ ░█▀▀▀ ░█░█░█ ░█─ ─░█── ░█▄▄▄█ 
-                             ░█▄▄▄█ ░█▄▄▄ ░█─░█ ░█▄▄▄ ░█──▀█ ▄█▄ ─░█── ──░█──
+                         ░█▀▀▀█ ░█▀▀▀ ░█▀▀█ ░█▀▀▀ ░█▄─░█ ▀█▀ ▀▀█▀▀ ░█──░█ 
+                         ─▀▀▀▄▄ ░█▀▀▀ ░█▄▄▀ ░█▀▀▀ ░█░█░█ ░█─ ─░█── ░█▄▄▄█ 
+                         ░█▄▄▄█ ░█▄▄▄ ░█─░█ ░█▄▄▄ ░█──▀█ ▄█▄ ─░█── ──░█──
 ```
 <img src="https://raw.githubusercontent.com/r3wind29/my-home/main/Serenity/Screenshot%20/serenity-01.png">
 <img src="https://raw.githubusercontent.com/r3wind29/my-home/main/Serenity/Screenshot%20/serenity-03.png">
