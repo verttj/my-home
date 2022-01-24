@@ -1,0 +1,33 @@
+* {
+  /* General */
+  text-font:                            "Jetbrains Mono 9";
+  text-font-mono:                       "RobotoMono Nerd Font Mono 14";
+  icon-font:                            "RobotoMono Nerd Font Mono 15";
+  icon-font-small:                      "RobotoMono Nerd Font Mono 10";
+  all-inputbar-margin:                  4px 4px;
+  all-prompt-padding:                   10px 10px;
+  all-entry-padding:                    16px 16px 16px 0px;
+
+  /* list menus: apps */
+  list-element-padding:                 20px;
+  list-element-margin:                  @all-inputbar-margin;
+  list-element-border:                  0px 0px 0px 8px;
+  list-8-window-padding:                29px 40px;
+
+  option-element-padding:               30px  40px 30px  4px;
+  option-3-window-padding:              7px 12px;
+  option-3-listview-spacing:            16px;
+  option-5-window-padding:              10px 10px;
+  option-5-listview-spacing:            6px;
+  option-6-listview-spacing:            5px;
+
+  apps-textbox-prompt-colon-padding:    16px;
+
+  music-window-padding:                 13px 17px;
+  music-inputbar-margin:                10px 0px;
+  music-prompt-padding:                 14px 20px 10px 20px;
+  music-prompt-margin:                  0px 0px 0px -2px;
+  music-element-border:                 6px;
+  music-element-padding:                3px 18px 5px 3px;
+
+}

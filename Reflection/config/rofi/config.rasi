@@ -1,0 +1,34 @@
+/* stolen from :
+   https://gitlab.com/vahnrr
+   tweaks by me
+*/
+configuration {
+  show-icons:      true;
+  icon-theme:      "Papirus";
+  cycle:           true;
+  disable-history: false;
+  monitor:         "-4";
+  modi:            "drun";
+  display-drun:    "apps";
+}
+
+/* Fixes for rofi 1.7.0 */
+window {
+  border: 0px;
+}
+inputbar {
+  spacing: -4px;
+}
+listview {
+  columns: 1;
+  scrollbar: false;
+  border: 0px;
+}
+
+element-text,
+element-icon {
+  background-color: transparent;
+  padding: 5px 5px 0 0;
+}
+
+@import "/themes/shared/colorschemes/reflection.rasi"

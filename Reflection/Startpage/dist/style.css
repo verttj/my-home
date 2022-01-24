@@ -1,0 +1,97 @@
+:root {
+  --main-bg: #2b2828;
+  --box-bg: #2a2b29;
+  --col-pal: #ac8aac;
+  --col-par: #b4b9d9;
+  --font-jb: Jetbrains Mono;
+  --font-fc: Fira Code;
+  --font-size: 10px;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-jb);
+}
+
+html {
+  font-size: var(--font-size);
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
+
+li {
+  list-style: none;
+  color: var(--col-pal);
+  line-height: 3rem;
+  font-size: 1.7rem;
+}
+
+a {
+  text-decoration: none;
+  color: var(--col-par);
+  font-size: 1.3rem;
+  letter-spacing: 0.2rem;
+}
+
+body {
+  background: var(--main-bg);
+}
+
+.header {
+  padding: 4rem;
+}
+
+.header #clock {
+  color: var(--col-par);
+  font-size: 1.7rem;
+}
+
+.header #sGreetings {
+  font-size: 1.3rem;
+  color: var(--col-pal);
+  line-height: 3rem;
+}
+
+.container {
+  display: flex;
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .box-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: minmax(10rem, auto);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 20px;
+}
+
+.container .box-container .box {
+  height: 25rem;
+  width: 20rem;
+  background: var(--box-bg);
+  padding: 5rem;
+}
+
+/* responsive */
+@media only screen and (max-width: 950px) {
+  li {
+    font-size: 1.5rem;
+  }
+  a {
+    font-size: 1.1rem;
+  }
+  .container .box-container .box {
+    width: 16rem;
+    padding: 4rem;
+  }
+}

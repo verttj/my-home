@@ -1,0 +1,108 @@
+/* -----var----- */
+:root {
+  --main-bg: #202330;
+  --bg-gradient: linear-gradient(270deg, #cca9bc, #b8a3bc, #aca4c4);
+  --color-pal: #aca4c4;
+  --color-pin: #ffc1c6;
+  --font-size: 10px;
+  --font-jb: Jetbrains Mono;
+  --font-fc: Fira Code;
+}
+/* -----var----- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-jb);
+}
+
+html {
+  font-size: var(--font-size);
+}
+
+body {
+  background: var(--bg-gradient);
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box .box-content {
+  background: var(--main-bg);
+  height: 48rem;
+  width: 44rem;
+  padding: 20px;
+  margin-top: -0.4rem;
+  margin-left: 1rem;
+  border-radius: 1rem;
+}
+
+.box .box-image img {
+  width: 30rem;
+  height: 48rem;
+  border-radius: 1rem;
+}
+
+/* TEXT STYLING */
+
+.box .box-content #sGreetings {
+  color: var(--color-pal);
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+.box .box-content .header-txt {
+  margin: 1rem;
+  color: var(--color-pal);
+  font-size: 1.7rem;
+}
+
+.box .box-content span {
+  color: var(--color-pal);
+  font-size: 1.6rem;
+  margin-left: 1rem;
+}
+
+.box .box-content .link {
+  text-decoration: none;
+  color: var(--color-pin);
+  font-size: 1.4rem;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  margin-left: 0.2rem;
+}
+
+/* RESPONSIVE */
+@media only screen and (max-width: 55rem) {
+  .box .box-image img {
+    width: 22rem;
+    height: 34rem;
+  }
+
+  .box .box-content {
+    width: 32rem;
+    height: 34rem;
+  }
+
+  .box .box-content #sGreetings {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+  }
+
+  .box .box-content .header-txt {
+    margin: 0.4rem;
+    font-size: 1.2rem;
+  }
+
+  .box .box-content .link {
+    font-size: 1.1rem;
+  }
+}
